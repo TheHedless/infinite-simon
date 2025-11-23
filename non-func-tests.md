@@ -8,7 +8,7 @@
 ## Tesztelt operációs rendszerek:
 - Windows 10
 - Windows 11
-- EndevourOS (Linux)
+- EndeavourOS (Linux)
 - Android
 ## Észrevételek:
 A játék minden tesztelt eszközön teljesen játszható volt, a játékos sebességétől függetlenül helyesen vette be a bemeneteket és a hangjelzéseket is helyesen játszotta le.
